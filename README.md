@@ -8,7 +8,7 @@
         Engine em Python com API via FastAPI
         Frontend interativo em Next.js + TailwindCSS
         Visualização de estados quânticos, distribuição de Fock e entanglement
-        Pronto para Deploy SaaS (Vercel + Render)
+      
 
      Aplicações:
 
