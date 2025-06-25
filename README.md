@@ -1,6 +1,10 @@
-    BQL-2.0 — Bosonic Quantum Language 2.0 é um framework híbrido para computação quântica, que permite a simulação e desenvolvimento de algoritmos utilizando tanto qubits (modelo de portas lógicas) quanto modos bosônicos (modelo contínuo fotônico).
+    BQL-2.0 — Bosonic Quantum Language 2.0 é um framework híbrido para computação quântica, 
+    que permite a simulação e desenvolvimento de algoritmos utilizando tanto qubits (modelo de portas lógicas)
+    quanto modos bosônicos (modelo contínuo fotônico).
 
-    Através da integração de Qiskit (IBM) e Strawberry Fields (Xanadu), o BQL-2.0 permite que pesquisadores, desenvolvedores, startups e entusiastas da computação quântica explorem sistemas híbridos de maneira acessível e poderosa.
+    Através da integração de Qiskit (IBM) e Strawberry Fields (Xanadu), 
+    o BQL-2.0 permite que pesquisadores, desenvolvedores, 
+    startups e entusiastas da computação quântica explorem sistemas híbridos de maneira acessível e poderosa.
 
     Principais recursos:
 
